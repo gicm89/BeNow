@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Be Now - Adaptogenic Mushroom Capsules and Teas</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        .header {
+            background-color: #6b8e23;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            padding: 20px;
+        }
+        .product {
+            margin: 20px 0;
+            padding: 20px;
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+        }
+        .product h2 {
+            margin: 0 0 10px;
+        }
+        .product p {
+            margin: 5px 0;
+        }
+        .product .price {
+            font-weight: bold;
+            color: #6b8e23;
+        }
+        .footer {
+            background-color: #6b8e23;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            margin: 10px 0;
+            background-color: #6b8e23;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .button:hover {
+            background-color: #556b2f;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Be Now</h1>
+        <p>Adaptogenic Mushroom Capsules and Teas</p>
+    </div>
+    <div class="container">
+        <div class="product">
+            <h2>Microdosis Capsules</h2>
+            <p>10 or 20 capsules with a variety of adaptogenic mushrooms, aimed at improving mood, creativity, and overall wellbeing.</p>
+            <p class="price">$100 / 10 capsules</p>
+            <p class="price">$200 / 20 capsules</p>
+        </div>
+        <div class="product">
+            <h2>Moderate Dose Choco</h2>
+            <p>1g of adaptogenic mushrooms in delicious chocolate form.</p>
+            <p class="price">$300 / piece</p>
+        </div>
+        <div class="product">
+            <h2>Heroic Dose Choco</h2>
+            <p>2.5g of adaptogenic mushrooms in delicious chocolate form.</p>
+            <p class="price">$600 / piece</p>
+        </div>
+        <div class="product">
+            <h2>The Bar</h2>
+            <p>5g of adaptogenic mushrooms in a convenient bar.</p>
+            <p class="price">$1,200 / bar</p>
+        </div>
+        <a class="button" href="https://open.spotify.com/playlist/4sDvqoCaDypnT9GCQ7TnYK?si=BIsPrHTWTkOy0Hpw9jEqvw" target="_blank">Plantea una intención - Listen on Spotify</a>
+    </div>
+    <div class="footer">
+        <p>&copy; 2024 Be Now. All rights reserved.</p>
+    </div>
+</body>
+</html>
+
